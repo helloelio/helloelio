@@ -1,6 +1,6 @@
 #  👋 Hi my name is **Gleb Medvedev**
 ## I'm a learn *Front-end development* 
-### check my last **html/css** priject [marafun.ru]https://helloelio.github.io/marafon-3.0/(HTMLAcademy marafon)
+### check my last **html/css** project [marafon.ru]https://helloelio.github.io/marafon-3.0/(HTMLAcademy marafon)
 ### Languages and Technologies 
 ![HTML](https://img.shields.io/badge/-HTML-brightgreen)
 ![CSS](https://img.shields.io/badge/-CSS-green)
