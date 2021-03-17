@@ -9,5 +9,3 @@
 ### 📧 Mail me: fredwantblossom@gmail.com
 ### 🌐 instagram: @madve.dev
 #
-
-![alt text](https://guazzo.ru/wp-content/uploads/2020/07/12.png)
