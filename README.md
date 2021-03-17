@@ -10,4 +10,4 @@
 ### 🌐 instagram: @madve.dev
 #
 
-![alt text](https://www.pngfind.com/pngs/m/24-248816_frontend-development-front-end-development-png-transparent-png.png)
+![alt text](https://c0.klipartz.com/pngpicture/416/929/gratis-png-adorno-de-linea-de-arte-separador.png)
