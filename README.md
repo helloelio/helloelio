@@ -10,4 +10,4 @@
 ### 🌐 instagram: @madve.dev
 #
 
-![alt](https://i.ytimg.com/vi/IMLwb8DIksk/maxresdefault.jpg)
+![alt](https://miro.medium.com/max/1024/1*OohqW5DGh9CQS4hLY5FXzA.png)
