@@ -10,4 +10,4 @@
 ### 🌐 instagram: @madve.dev
 #
 
-![alt text](https://c0.klipartz.com/pngpicture/416/929/gratis-png-adorno-de-linea-de-arte-separador.png)
+![alt text](https://guazzo.ru/wp-content/uploads/2020/07/12.png)
