@@ -16,4 +16,4 @@
 
 #
 
-![alt](./git-reamde.png)
+![alt](git-reamde.png)
