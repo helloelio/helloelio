@@ -26,7 +26,6 @@
   </div>
 
 <div display='flex' flex-direction='column' align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <a  href="https://github.com/helloelio/github-readme-stats">
   <img height='165px' align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=helloelio&show_icons=true&include_all_commits=true" alt="helloelio's github stats" />
