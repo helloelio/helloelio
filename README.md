@@ -28,7 +28,7 @@
 <div display='flex' flex-direction='column' align="center">
 
 <a  href="https://github.com/helloelio/github-readme-stats">
-  <img height='165px' align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=helloelio&show_icons=true&include_all_commits=true" alt="helloelio's github stats" />
+  <img height='165px' align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=helloelio&show_icons=true" alt="helloelio's github stats" />
 </a>
 <a height='200px' href="https://github.com/helloelio/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
