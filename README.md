@@ -18,11 +18,12 @@
 ![codewars](https://www.codewars.com/users/helloelio/badges/large)
 ---
 
+  
 ### 📧 𝙼𝚊𝚒𝚕 𝚖𝚎: <a href='mailto:fredwantblossom@gmail.com'> 𝚏𝚛𝚎𝚍𝚠𝚊𝚗𝚝𝚋𝚕𝚘𝚜𝚜𝚘𝚖@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖 </a>
 
 ### 🌐 𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖: <a href='https://www.instagram.com/madve.dev/'>@𝚖𝚊𝚍𝚟𝚎.𝚍𝚎𝚟</a>
 
-  </div>
+</div>
 
 <div display='flex' align="center">
 
