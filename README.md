@@ -13,7 +13,7 @@
 <a href="https://gulpjs.com/" target="_blank"><img src="./img/pngegg.png" alt="gulp" width="40" height="40"/></a>
 <a href="https://webpack.js.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
 
-![codewars](https://www.codewars.com/users/helloelio/badges/large)
+![codewars](https://www.codewars.com/users/helloelio/badges/small)
 ---
 
   
