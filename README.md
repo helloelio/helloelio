@@ -20,11 +20,3 @@
 
 ![codewars](https://www.codewars.com/users/helloelio/badges/small)
 
-<a  href="https://github.com/helloelio/github-readme-stats">
-  <img height='165px' align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=helloelio&show_icons=true" alt="helloelio's github stats" />
-</a>
-<a height='200px' href="https://github.com/helloelio/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=helloelio&layout=compact" />
-</a>
-
