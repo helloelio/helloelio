@@ -1,5 +1,6 @@
 <div align="center">
-<img  src="https://media0.giphy.com/media/Nv2zFmJnKjis1k7mOQ/giphy.gif?cid=790b76110c99dbca3b1ce41fdc7f32f34e147f659611fbdf&rid=giphy.gif&ct=g"/>
+
+Hellow, world! 👋 My name is Gleb.
 </div>
 
 ---
