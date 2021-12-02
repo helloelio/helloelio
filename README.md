@@ -1,12 +1,9 @@
 <div align="center">
 Hellow, world! 👋 My name is Gleb.
 </div>
-
-[![Gmail badge](https://img.shields.io/badge/-fredwantblossom-gray?style=flat&logo=Gmail&logoColor=white)](mailto:fredwantblossom@gmail.com) 
-[![Instagram badge](https://img.shields.io/badge/-madve.dev-gray?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/madve.dev/?hl=ru)
 ---
-
-[![Gmail badge](https://img.shields.io/badge/-fredwantblossom-gray?style=flat&logo=Gmail&logoColor=white)](mailto:fredwantblossom@gmail.com) [![Instagram badge](https://img.shields.io/badge/-madve.dev-gray?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/madve.dev/?hl=ru)
+[![Gmail badge](https://img.shields.io/badge/-fredwantblossom-gray?style=flat&logo=Gmail&logoColor=white)](mailto:fredwantblossom@gmail.com)
+[![Instagram badge](https://img.shields.io/badge/-madve.dev-gray?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/madve.dev/?hl=ru)
 
 ---
 ## 📈 𝙸'𝚖 𝚕𝚎𝚊𝚛𝚗 𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
