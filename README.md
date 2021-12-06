@@ -1,7 +1,7 @@
 <h1>Hello, world! 👋 My name is Gleb. </h1>
 <img align='right' src='https://i.pinimg.com/originals/31/8a/ce/318ace426b2275a36b7f308bff5d00f1.gif' width='200"'>
 
-## ☎️ Contact information
+## ☎️ Contact information.
 
 [![Gmail badge](https://img.shields.io/badge/-fredwantblossom-gray?style=flat&logo=Gmail&logoColor=white)](mailto:fredwantblossom@gmail.com)  
 [![Instagram badge](https://img.shields.io/badge/-madve.dev-gray?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/madve.dev/?hl=ru)
@@ -14,8 +14,7 @@
 𝚝𝚑𝚊𝚝'𝚜 𝚠𝚑𝚢 𝙸 𝚛𝚎𝚊𝚕𝚕𝚢 > 𝚕𝚘𝚟𝚎 𝚌𝚜𝚜 𝚊𝚗𝚍 𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚗𝚍 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢 
 ⚙️ 𝚘𝚏 𝚝𝚑𝚎𝚜𝚎 𝚜𝚒𝚝𝚎𝚜 />
 ```
-## 📅 𝙽𝙾𝚆.
-  N𝚘𝚠 𝙸 𝚊𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚅𝚞𝚎.𝚓𝚜, 𝚅𝚞𝚎𝚡, 𝚅𝚞𝚎 𝚁𝚘𝚞𝚝𝚎𝚛.<br/>
+## 🚧 My latest projects .
 
 - <a href="https://vue-weather-app-seven.vercel.app/" target="_blank"> ☁️ Weather App </a>
 - <a href="https://e-commerce-component.vercel.app/" target="_blank"> 🛒 e-Commerce component </a>
