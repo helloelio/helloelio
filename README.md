@@ -16,6 +16,8 @@
 ```
 ## 🚧 My latest projects .
 
+
+- <a href="https://app-ts.vercel.app/" target="_blank"> 📁 My portfolio in one site (write with Typescript) </a>
 - <a href="https://vue-weather-app-seven.vercel.app/" target="_blank"> ☁️ Weather App </a>
 - <a href="https://e-commerce-component.vercel.app/" target="_blank"> 🛒 e-Commerce component </a>
 -  <a href="https://tip-calculator-roan.vercel.app/" target="_blank"> 🧮 Tip Calculator </a>
