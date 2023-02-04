@@ -1,5 +1,6 @@
 <h3 align="center">👋 Hello! I'm Gleb.</h3>
 
-
-> [![Gmail badge](https://img.shields.io/badge/-fredwantblossom-gray?style=flat&logo=Gmail&logoColor=white)](mailto:fredwantblossom@gmail.com)  
-> [![Instagram badge](https://img.shields.io/badge/-madve.dev-gray?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/madve.dev/?hl=ru)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/helloelio/count.svg" />
+</p>
