@@ -7,4 +7,6 @@
 - 👀 Interested in:  **Frontend** | **Design** | **AI** |
 
 ## ~ 𝖑𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 ~
-#### 𝖏𝖘 · 𝖍𝖙𝖒𝖑 · 𝖈𝖘𝖘
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,vue,redux,docker,git, gulp" />
+  </a>
