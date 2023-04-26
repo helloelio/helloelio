@@ -4,7 +4,7 @@
 
 ## ~ 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊 ~ 
 - Languages: / English / Russian
-- 👀 Interested in:  **Frontend** | **Design** | **AI** |
+- 👀 Interested in:  **Frontend** | **Design** | **AI**
 
 ## ~ 𝖑𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 ~
   <a href="https://skillicons.dev">
